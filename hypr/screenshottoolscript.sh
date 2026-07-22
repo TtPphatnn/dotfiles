@@ -1,0 +1,1 @@
+slurp | tee >(grim -g "$(cat)" "$HOME/Pictures/Screenshots/screenshot-$(date +'%Y-%m-%d-%H%M%S').png") | grim -g "$(cat)" - | wl-copy
