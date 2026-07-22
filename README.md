@@ -14,3 +14,5 @@ waybar-cava-git - the status bar with cava integration.
 
 kitty - just a default terminal
 
+rofi 
+
