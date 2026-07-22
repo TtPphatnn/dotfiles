@@ -1,0 +1,71 @@
+/* my cooking of cyberdream and paused at 51:50 */
+/* 
+
+
+*/
+
+@define-color bg0 #11092D;
+@define-color bg1 #281657;
+@define-color bg2 #322f32;
+@define-color bg3 #453d45;
+@define-color bg4 #5a4c5a;
+
+@define-color fg0 #d498c8;
+@define-color fg1 #dda1d1;
+
+
+/* I think it is used for shading */
+@define-color grey0 #dda1d1;
+@define-color grey1 #927490;
+@define-color grey2 #a884a3;
+
+
+@define-color bg_statusline1 #322f32;
+@define-color bg_statusline2 #3a353a;
+@define-color bg_statusline3 #4f4550;
+@define-color bg_current_word #3c363c;
+
+@define-color greyOriginal #7b8496;
+
+
+/* darkest  bg_diff */
+
+@define-color bg_diff_blue #203047;
+@define-color bg_diff_green #4f664f;
+@define-color bg_diff_cyan #3e676b;
+@define-color bg_diff_red #462824;
+@define-color bg_diff_yellow #747859;
+@define-color bg_diff_magenta #462f43;
+@define-color bg_diff_pink #432630;
+@define-color bg_diff_orange #624f36;
+@define-color bg_diff_purple #2c1f37;
+
+/* Mid bg_visual_ */
+
+@define-color bg_visual_blue #1c3c68;
+@define-color bg_visual_green #038520;
+@define-color bg_visual_cyan #037c85;
+@define-color bg_visual_red #790102;
+@define-color bg_visual_yellow #838c02;
+@define-color bg_visual_magenta #4d414b;
+@define-color bg_visual_pink #72003c;
+@define-color bg_visual_orange #835601;
+@define-color bg_visual_purple #382c42;
+
+
+
+
+@define-color blue #5ea1ff;
+@define-color green #5eff6c;
+@define-color cyan #5ef1ff;
+@define-color red #ff6e5e;
+@define-color yellow #f1ff5e;
+@define-color magenta #ff5ef1;
+@define-color pink #ff5ea0;
+@define-color orange #ffbd5e;
+@define-color purple #bd5eff;
+
+
+
+
+
