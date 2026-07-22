@@ -14,5 +14,8 @@ waybar-cava-git - the status bar with cava integration.
 
 kitty - just a default terminal
 
-rofi 
+rofi - copied config from https://github.com/adi1090x/rofi
+
+
+note: there is no hyprland env variables for nvidia config please check them on wiki if you are nvidia user: https://wiki.hypr.land/Configuring/Advanced-and-Cool/Environment-variables/ 
 
