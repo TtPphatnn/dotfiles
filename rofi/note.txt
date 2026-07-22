@@ -1,0 +1,10 @@
+clone github for rofi themes
+https://github.com/adi1090x/rofi.git
+choose 
+
+
+launcher type 7 style 10
+
+power menu type 5 style 5
+ 1:06:09
+
